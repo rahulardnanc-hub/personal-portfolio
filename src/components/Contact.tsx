@@ -10,7 +10,7 @@ export function Contact() {
           {/* Name Field */}
           <div className="mb-4">
             <label htmlFor="name" className="block mb-2 text-sm font-medium text-gray-300">Your Name</label>
-            <input type="text" id="name" className="bg-gray-700 border border-gray-600 text-white text-sm rounded-lg focus:ring-emerald-500 focus:border-emerald-500 block w-full p-2.5" placeholder="John Doe" required/>
+            <input type="text" id="name" className="bg-gray-700 border border-gray-600 text-white text-sm rounded-lg focus:ring-emerald-500 focus:border-emerald-500 block w-full p-2.5" placeholder="Rahul Chandra" required/>
           </div>
 
           {/* Email Field */}
